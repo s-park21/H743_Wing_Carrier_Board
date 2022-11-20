@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "SM04B-GHS-TB_LF__SN_-")(type "KiCad")(uri "${KIPRJMOD}/Local_Library/SM04B-GHS-TB_LF__SN_-.kicad_sym")(options "")(descr ""))
+  (lib (name "SM06B-GHS-TB_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/Local_Library/SM06B-GHS-TB_LF__SN_.kicad_sym")(options "")(descr ""))
+  (lib (name "SM03B-GHS-TB_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/Local_Library/SM03B-GHS-TB_LF__SN_.kicad_sym")(options "")(descr ""))
+  (lib (name "RFD900ux")(type "KiCad")(uri "C:/Users/thean/OneDrive/Documents/1. Uni Work/HPR/Strelka-Flight-Computer/Local Library/RFD900ux.kicad_sym")(options "")(descr ""))
+)
